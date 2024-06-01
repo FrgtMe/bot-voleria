@@ -3,3 +3,4 @@ tgcrypto
 aiogram
 pyromod
 requests
+gunicorn 
