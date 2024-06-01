@@ -4,3 +4,4 @@ aiogram
 pyromod
 requests
 gunicorn 
+flask
